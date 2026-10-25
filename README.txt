@@ -9,3 +9,5 @@ Maak voor het bijwerken eerst een back-up van je sieraden in de app. Wis geen si
 
 Versie 3.1: twee fotoknoppen: rechtstreeks camera (achtercamera) of galerij.
 Camera-ondersteuning hangt af van Android/browser; de browser kan een keuzevenster tonen.
+
+Versie 4.0: Instellingen voor kleuren, lettertype en tekstgrootte. Thema lokaal opgeslagen, los van de sieradendatabase.
