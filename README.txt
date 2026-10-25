@@ -1,17 +1,9 @@
-Sieradenbeheer PWA 3.0 — live goud- en zilverkoersen
+Sieradenbeheer PWA 4.3 — categorieknoppen vast in index.html
 
-Upload alle zes bestanden naar de hoofdmap van je bestaande GitHub Pages-repository en vervang de vorige versies.
+De zes knoppen (Ringen, Oorbellen, Armbanden, Kettingen, Bedels en Hangers) staan rechtstreeks in index.html. De bestaande JavaScript verzorgt de werking van de knoppen. Klik op de foto of naam om een artikel te openen.
 
-Bron: https://gold-api.com/docs
-De app vraagt online XAU/EUR en XAG/EUR spotprijzen op, deelt EUR per troy ounce door 31.1034768 en toont EUR per gram zuiver metaal. Geen API-sleutel vereist. Bij uitval blijven laatst opgeslagen waarden beschikbaar. De app werkt offline, maar kan dan geen actuele koers ophalen.
+Upload ALLE 8 bestanden uit deze ZIP naar de hoofdmap van de bestaande GitHub Pages-repository en vervang de bestaande bestanden. Upload de bestanden zelf, niet de ZIP als bestand.
 
-Maak voor het bijwerken eerst een back-up van je sieraden in de app. Wis geen sitegegevens.
+BELANGRIJK: maak eerst een JSON-back-up via de app. Wis geen browsergegevens en verwijder de app niet: bestaande gegevens en fotos staan lokaal op het toestel.
 
-Versie 3.1: twee fotoknoppen: rechtstreeks camera (achtercamera) of galerij.
-Camera-ondersteuning hangt af van Android/browser; de browser kan een keuzevenster tonen.
-
-Versie 4.0: Instellingen voor kleuren, lettertype en tekstgrootte. Thema lokaal opgeslagen, los van de sieradendatabase.
-
-Versie 4.1: categorieën Bedels en Hangers toegevoegd, inclusief invoer, filter en back-up.
-
-Versie 4.2: tik op de foto of naam van een artikel om het te openen; de knop Openen / wijzigen is verwijderd.
+De titel, scriptversies en serviceworker-cache zijn bijgewerkt naar 4.3 om oude bestanden minder lang te laten hangen.
