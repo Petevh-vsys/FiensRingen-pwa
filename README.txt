@@ -1,20 +1,8 @@
-RINGENBEHEER PWA — INSTALLATIE
+Sieradenbeheer PWA 3.0 — live goud- en zilverkoersen
 
-1. Maak op GitHub een NIEUWE repository, bijvoorbeeld FiensRingen-PWA.
-2. Upload de zes bestanden uit deze map naar de hoofdmap (root) van die repository.
-3. Ga naar Settings > Pages > Build and deployment > Deploy from a branch.
-   Selecteer main en /(root), klik Save.
-4. Wacht tot GitHub Pages gepubliceerd is. Open de HTTPS-link die GitHub toont.
-5. Open de link op je Motorola in Chrome en kies menu (drie puntjes) > App installeren
-   of Toevoegen aan startscherm.
-6. Open de geïnstalleerde app minstens één keer met internetverbinding.
-   Daarna werkt ze ook zonder internet, zolang de browsergegevens behouden blijven.
+Upload alle zes bestanden naar de hoofdmap van je bestaande GitHub Pages-repository en vervang de vorige versies.
 
-LET OP:
-- Open index.html niet rechtstreeks vanuit Downloads (file://): de PWA-serviceworker
-  vereist HTTPS (of localhost). Publiceren op GitHub Pages is nodig.
-- Ringgegevens en foto's worden uitsluitend lokaal in IndexedDB opgeslagen.
-- Maak regelmatig een back-up via de knop 'Exporteer back-up'.
-- De bestaande Android APK-database wordt NIET automatisch overgenomen.
-- GitHub Pages voor een projectrepo kan openbaar toegankelijk zijn. De sitecode
-  is publiek, maar je lokale ringgegevens worden niet naar GitHub verzonden.
+Bron: https://gold-api.com/docs
+De app vraagt online XAU/EUR en XAG/EUR spotprijzen op, deelt EUR per troy ounce door 31.1034768 en toont EUR per gram zuiver metaal. Geen API-sleutel vereist. Bij uitval blijven laatst opgeslagen waarden beschikbaar. De app werkt offline, maar kan dan geen actuele koers ophalen.
+
+Maak voor het bijwerken eerst een back-up van je sieraden in de app. Wis geen sitegegevens.
