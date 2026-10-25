@@ -11,3 +11,7 @@ Versie 3.1: twee fotoknoppen: rechtstreeks camera (achtercamera) of galerij.
 Camera-ondersteuning hangt af van Android/browser; de browser kan een keuzevenster tonen.
 
 Versie 4.0: Instellingen voor kleuren, lettertype en tekstgrootte. Thema lokaal opgeslagen, los van de sieradendatabase.
+
+Versie 4.1: categorieën Bedels en Hangers toegevoegd, inclusief invoer, filter en back-up.
+
+Versie 4.2: tik op de foto of naam van een artikel om het te openen; de knop Openen / wijzigen is verwijderd.
